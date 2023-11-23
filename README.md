@@ -15,7 +15,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
    - A3 Work with data Yelp Reviews
   
 4. **Module 4: Stats review**
-   - A4 Hypothesis testing - FB ads and Starbucks promos
+   - A4 Hypothesis testing - FB ads and Starbucks promos(https://colab.research.google.com/drive/1SQr7kSC07zmbDMB0iiqF_DkJR2rU4Nqf)
 
 5. **Module 5: Regression**
    - A5 Regression Analysis
@@ -23,4 +23,4 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 6. **Module 6: Clustering and Segmentation**
    - A6 Segmentation (retail transactions and behavioral segmentation)
    **Module 7: Use GitHub to Create Your Assignment Portfolio**
-    - A7 [List Your Data Analytics Skills](https://colab.research.google.com/drive/1SQr7kSC07zmbDMB0iiqF_DkJR2rU4Nqf)
+    - A7 [List Your Data Analytics Skills]
